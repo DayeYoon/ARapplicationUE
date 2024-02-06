@@ -7,7 +7,7 @@ products:
 - hololens
 ---
 
-# Chess App
+# ARHololens
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
