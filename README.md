@@ -25,7 +25,7 @@ The final result of the Unreal + UX Tools [tutorial](https://docs.microsoft.com/
 | `Content` | Project files and assets. |
 | `Plugins/UXTools` | Mixed Reality Toolkit for Unreal UX Tools plugin components. |
 | `.gitignore` | Define what to ignore at commit time. |
-| `ChessApp.uproject` | Unreal Engine project file. |
+| `ARHololens.uproject` | Unreal Engine project file. |
 | `ChessAssets.7z` | Zipped asset file with models and materials. |
 | `README.md` | This README file. |
 
@@ -36,7 +36,7 @@ You can find the samples most up-to-date prerequisites and installation instruct
 ## Setup
 
 1. Clone or download this sample repository
-2. Open the ChessApp.uproject in Unreal Engine
+2. Open the ARHololens.uproject in Unreal Engine
 
 ## Running the sample
 
